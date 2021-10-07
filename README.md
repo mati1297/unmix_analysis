@@ -40,8 +40,6 @@ To train the vqvae, run
 
 ```
 mpiexec -n {ngpus} python unmix/train.py --hps=vqvae --name=vqvae_drums_b4 --sr=44100 --sample_length=393216 --bs=4 --audio_files_dir="Put the path to the specific stem audio folder" --labels=False --train --aug_shift --aug_blend
-
-
 ```
 
 Here, `{audio_files_dir}` is the directory in which you can put the audio files for your stem , and `{ngpus}` is number of GPU's you want to use to train.
