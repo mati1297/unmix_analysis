@@ -6,7 +6,7 @@ This code is a based on "Jukebox: A Generative Model for Music"
 [Paper](https://arxiv.org/abs/2005.00341)
 We adjusted it for our application: Demixing an Audio Signal to four different stems: Drums, Basss, Vocals, Other.
 
-# Jukebox
+# Unmix
 
 # Install
 
