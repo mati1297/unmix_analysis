@@ -1,0 +1,1 @@
+unmix_encoder/train.py --hps=vqvae --name=encoder_vocal_b4 --sr=44100 --sample_length=393216 --bs=4 --audio_files_dir=/media/compute/homes/wzaielamri/ai_music/musdb18hq/train_0 --labels=False --train --aug_shift --aug_blend --encoder=True --channel=_4 --restore_vqvae=/media/compute/homes/wzaielamri/ai_music/unmix/logs/vqvae_vocal_b4/checkpoint_step_80001.pth.tar

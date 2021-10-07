@@ -1,0 +1,1 @@
+unmix/train.py --hps=vqvae --name=vqvae_b4_bass_scratch --sr=44100 --sample_length=393216 --bs=4 --audio_files_dir=/media/compute/homes/wzaielamri/ai_music/musdb18hq/train_2 --labels=False --train --aug_shift --aug_blend
