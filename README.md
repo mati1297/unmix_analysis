@@ -2,10 +2,13 @@
 
 # Disclaimer
 
+This work is based on ["Jukebox: A Generative Model for Music"](https://arxiv.org/abs/2005.00341). We adjusted Jukebox for our application of demixing an audio signal into four different stems: drums, basss, vocals, other. The work was a part of  application is from the ISMIR 2021 challange: https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021
+
+.
 This code is a based on "Jukebox: A Generative Model for Music"
 [Paper](https://arxiv.org/abs/2005.00341)
 
-We adjusted it for our application: Demixing an audio signal into four different stems: drums, basss, vocals, other.
+We adjusted it for our application: Demixing an audio signal into four different stems: drums, basss, vocals, other. The application is from the ISMIR 2021 challange: https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021
 
 # Unmix
 
