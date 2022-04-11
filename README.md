@@ -1,5 +1,14 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
+![Visualization of the proposed transfer learning model architecture.](architecture.jpg)
+Visualization of the proposed transfer learning model architecture.
+
+# PDF
+
+"Transfer Learning with Jukebox for Music Source Separation" <br />
+[arXiv PDF](https://arxiv.org/abs/2111.14200) <br />
+[paperswithcode](https://paperswithcode.com/paper/transfer-learning-with-jukebox-for-music) <br />
+
 # Unmix Disclaimer
 
 This work is based on ["Jukebox: A Generative Model for Music"](https://arxiv.org/abs/2005.00341). We adjusted Jukebox for our application of demixing an audio signal into four different stems: drums, bass, vocals, other. This work was a part of the [ISMIR 2021 challange](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021).
