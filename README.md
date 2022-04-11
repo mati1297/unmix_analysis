@@ -6,9 +6,8 @@
 
 # PDF
 
-**"Transfer Learning with Jukebox for Music Source Separation"** <br />
-[arXiv PDF](https://arxiv.org/abs/2111.14200) <br />
-[paperswithcode](https://paperswithcode.com/paper/transfer-learning-with-jukebox-for-music) <br />
+**arXiv:** [Transfer Learning with Jukebox for Music Source Separation](https://arxiv.org/abs/2111.14200) <br />
+**paperswithcode:** [Music Source Separation on MUSDB18-HQ](https://paperswithcode.com/sota/music-source-separation-on-musdb18-hq) <br />
 
 # Unmix Disclaimer
 
