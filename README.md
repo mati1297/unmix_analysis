@@ -1,11 +1,12 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
-![Visualization of the proposed transfer learning model architecture.](architecture.jpg)
-Visualization of the proposed transfer learning model architecture.
+**Figure:** Visualization of the proposed transfer learning model architecture.
+
+![Figure: Visualization of the proposed transfer learning model architecture.](architecture.jpg)
 
 # PDF
 
-"Transfer Learning with Jukebox for Music Source Separation" <br />
+**"Transfer Learning with Jukebox for Music Source Separation"** <br />
 [arXiv PDF](https://arxiv.org/abs/2111.14200) <br />
 [paperswithcode](https://paperswithcode.com/paper/transfer-learning-with-jukebox-for-music) <br />
 
