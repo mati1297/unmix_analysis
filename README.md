@@ -74,10 +74,17 @@ It covers both released code and weights.
 
 # Citation
 ```
-@article{zai2021transfer,
-  title={Transfer Learning with Jukebox for Music Source Separation},
-  author={Zai El Amri, Wadhah and Tautz, Oliver and Ritter, Helge and Melnik, Andrew},
-  journal={arXiv preprint arXiv:2111.14200},
-  year={2021}
+@InProceedings{zai2022unmix,
+author="Zai El Amri, Wadhah
+and Tautz, Oliver
+and Ritter, Helge
+and Melnik, Andrew",
+title="Transfer Learning with Jukebox for Music Source Separation",
+booktitle="Artificial Intelligence Applications and Innovations",
+year="2022",
+publisher="Springer International Publishing",
+pages="426--433",
+isbn="978-3-031-08337-2"
 }
+
 ```
