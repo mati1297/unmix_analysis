@@ -1,3 +1,31 @@
+# Fork: Performance Analysis of Unmix, a Music Source Separation Neural Network
+
+## Matías Charrut
+
+This work is done as final project of the subject Neural Networks of the Faculty of Engineering of the University of Buenos Aires.
+
+This work can be downloaded [here]().
+
+### Abstract
+
+
+## Instructions
+
+* Clone this repository and install following instructions [here](#install).
+* I found problems running the scripts with PyTorch checkpoints files version, so to fix it:
+  * Unpack files `.pth.tar` inside folders inside `logs/`.
+  * Open `version` file and change the 3 for a 2.
+  * Rename the folder `data/` to `tensors/`.
+  * Pack it again.
+
+  I had changed some files, but not all of them.
+
+* To run the scripts, you need to be in the same directory where unmix_functions.py is. It contains the functions which use the scripts. This functions are modifications of the original scripts present in the `unmix/` folder, but modified to be used with already loaded files, among other changes.
+
+*Put audio files in folders inside `dataset/` folder, or change the directory in the scripts. The results and images are saved in `results/` and `images/` folders respectively, but you can change them in the scripts.
+
+# Original repository
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 **Figure:** Visualization of the proposed transfer learning model architecture.
