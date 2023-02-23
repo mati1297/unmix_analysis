@@ -30,15 +30,16 @@ def plot_performance(folder, json_file):
     sdrs[index] = np.mean(np.array(sdrs[index]))
 
 
-  fig, ax1 = plt.subplots(figsize=(6, 2.5))
+  fig, ax1 = plt.subplots(figsize=(6, 4))
 
   ax2 = ax1.twinx()
   ax1.plot(s_lengths, sdrs, '-o', color='tab:blue')
   ax2.plot(s_lengths, times, '-o', color='tab:orange')
 
+  ax1.set_ylabel('SDR values [dB]', color='tab:blue')
+  ax2.set_ylabel('Time per prediction [s]', color='tab:orange')
+
   ax1.set_xlabel('Sample length')
-  ax1.set_ylabel('SDR values', color='tab:blue')
-  ax2.set_ylabel('Time per prediction', color='tab:orange')
 
   ax1.grid()
 

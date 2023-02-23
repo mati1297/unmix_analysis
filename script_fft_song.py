@@ -38,5 +38,7 @@ for index, track in enumerate(tracks):
      verticalalignment='top',
      transform = axs[index].transAxes)
 
+    axs[index].set_xlabel('Frequency [Hz]')
+
 fig.tight_layout()
 fig.savefig('images/fft.png')
