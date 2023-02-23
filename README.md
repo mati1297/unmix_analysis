@@ -4,11 +4,6 @@
 
 This work is done as final project of the subject Neural Networks of the Faculty of Engineering of the University of Buenos Aires.
 
-This work can be downloaded [here]().
-
-### Abstract
-
-
 ## Instructions
 
 * Clone this repository and install following instructions [here](#install).
